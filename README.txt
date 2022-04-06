@@ -1,8 +1,3 @@
-README
-Eric Du
-edu1@stu.parkland.edu
-CSC 220, Spring 2016
-
 Description:
 This project is designed to take an input file of Eurail travel times, store 
 the data in an undirected, weighted graph, calculate shortest path using 
